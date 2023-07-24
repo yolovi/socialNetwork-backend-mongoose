@@ -95,7 +95,6 @@ We have created a social network with different types of Endpoints, some of whic
 
 ## Deployment THIS PROJECT 🚀 :
 
-
 To deploy the project:
 
 ```bash
@@ -104,6 +103,12 @@ To deploy the project:
 
 
 ```
+
+### Deployed here:
+https://social-network-backend-mongoose.vercel.app
+
+If it crashes try to refresh.
+
 ## Dependencies:
 
 ```bash
