@@ -5,12 +5,12 @@
  <p align="center">
     Social network using MongoDB to keep all information.
     <br />
-    <a href="https://github.com/victorcodigos/2-project-socialnetwork-backend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yolovi/socialNetwork-backend-mongoose"><strong>Explore the docs »</strong></a>
     <br />
     ·
-    <a href="https://github.com/victorcodigos/2-project-socialnetwork-backend/issues">Report Bug</a>
+    <a href="https://github.com/yolovi/socialNetwork-backend-mongoose/issues">Report Bug</a>
     ·
-    <a href="https://github.com/victorcodigos/2-project-socialnetwork-backend/issues">Request Feature</a>
+    <a href="https://github.com/yolovi/socialNetwork-backend-mongoose/issues">Request Feature</a>
   </p>
 </div>
 
@@ -19,7 +19,7 @@
 Project backend developed in JavaScript, using Express, Mongosh and Mongoose for solid integration with a MongoDB database. Bcrypt and JSON Web Token to ensure the security of user data. Also, use Nodemailer to confirm emails and recover password. We also use the Multer to be able to send a photo from the body.
 
 
-![GIF](./assets/socialmedia.gif)
+![GIF](./assets_readme/socialmedia.gif)
 
 
 ## *Endpoints* 
@@ -38,7 +38,7 @@ We have created a social network with different types of Endpoints, some of whic
 --
 
 <h1>
-  <img src="assets/socialNetwork.png"> </img>
+  <img src="assets_readme/socialNetwork.png"> </img>
   
   </h1> 
 
@@ -90,7 +90,7 @@ We have created a social network with different types of Endpoints, some of whic
 
 # Documentation 📂 :
 
-[Postman documentation - SOCIAL NETWORK ](https://documenter.getpostman.com/view/28231675/2s946k7WWG) 
+[Postman documentation - SOCIAL NETWORK ](https://documenter.getpostman.com/view/28231675/2s946k7rNH) 
 
 
 ## Deployment THIS PROJECT 🚀 :
@@ -127,7 +127,7 @@ To deploy the project:
 This project was very good because we learned how to work with branches and handle GitHub commands, we learned how to handle the few conflicts we had and at the end of the project it was gratifying to see everything working as we imagined. 
 
 <h1>
-  <img src="assets/branches.png"> </img>
+  <img src="assets_readme/branches.png"> </img>
   
   </h1> 
 
