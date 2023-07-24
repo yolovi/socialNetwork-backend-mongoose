@@ -11,11 +11,10 @@ const CommentController ={
               postId: req.params._id, 
               image: req.file?.filename
             })
-            const populatedComment = await Comment.findById(comment._id).populate("userId", "name");
             await Post.findByIdAndUpdate(req.params._id,{$push:{
               commentIds:comment._id
             }})
-            res.status(201).send({message: "Comment posted", comment:populatedComment })
+            res.status(201).send({message: "Comment posted", comment})
         } catch (error) {
             console.error(error)
             res.status(500).send({ message: 'Error posting the comment', error })
